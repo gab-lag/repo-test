@@ -355,13 +355,8 @@ div.inner-container .display-time{
     color:#515659 !important
 }
 div.message-container-agent div.message-container{
-    background-color:green !important;
-    color:red !important;
-    box-shadow:0 1px 0 #CCCECE !important
-}
-div.message-container-agent div.message-container{
-    background-color:green !important;
-    color:red !important;
+    background-color:#EFF1F4 !important;
+    color:#292F33 !important;
     box-shadow:0 1px 0 #CCCECE !important
 }
 div.message-container-agent div.message-container a{
@@ -395,7 +390,7 @@ div.typing{
 }
 #conversation-page #send-button{
     background:transparent !important;
-    color:yellow !important
+    color:#288DC1 !important
 }
 #conversation-page #send-button:focus:not(disabled){
     border:1px solid #66afe9 !important;
