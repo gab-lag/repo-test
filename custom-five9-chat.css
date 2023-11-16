@@ -364,7 +364,7 @@ div.message-container-agent div.message-container a{
     color:#288DC1 !important
 }
 div.message-container-client div.message-container{
-    background-color:red !important;
+    background-color:#288DC1 !important;
     color:green !important;
     box-shadow:0 1px 0 #1E6A91 !important
 }
