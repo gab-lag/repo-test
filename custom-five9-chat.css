@@ -469,9 +469,8 @@ div.typing{
 .hover-allowed #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item:hover div.channel-video{
     background-image:url("../../images/channels/channel-video-hover-default.png")
 }
-
- /*.five9-action-btn.ui-btn {
+.five9-action-btn.ui-btn {
      border: 1px solid #ff6d70 !important;
      background-color: #ff6d70 !important;
      color: #001E62 !important;
-}*/
+}
