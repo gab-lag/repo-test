@@ -390,7 +390,7 @@ div.typing{
 }
 #conversation-page #send-button{
     background:transparent !important;
-    color:#288DC1 !important
+    color:#001E62 !important
 }
 #conversation-page #send-button:focus:not(disabled){
     border:1px solid #66afe9 !important;
