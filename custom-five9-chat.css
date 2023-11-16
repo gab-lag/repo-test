@@ -356,13 +356,18 @@ div.message-container-agent div.message-container{
     color:red !important;
     box-shadow:0 1px 0 #CCCECE !important
 }
+div.message-container-agent div.message-container{
+    background-color:green !important;
+    color:red !important;
+    box-shadow:0 1px 0 #CCCECE !important
+}
 div.message-container-agent div.message-container a{
     font-weight:normal !important;
     color:#288DC1 !important
 }
 div.message-container-client div.message-container{
-    background-color:#288DC1 !important;
-    color:#fff !important;
+    background-color:red !important;
+    color:green !important;
     box-shadow:0 1px 0 #1E6A91 !important
 }
 div.message-container-client div.message-container a{
@@ -387,7 +392,7 @@ div.typing{
 }
 #conversation-page #send-button{
     background:transparent !important;
-    color:#288DC1 !important
+    color:yellow !important
 }
 #conversation-page #send-button:focus:not(disabled){
     border:1px solid #66afe9 !important;
@@ -472,6 +477,18 @@ div.typing{
 
  .five9-action-btn.ui-btn {
      border: 1px solid #ff6d70 !important;
+     background-color: #ff6d70 !important;
+     color: #001E62 !important;
+}
+
+#conversation-chat-header.ui-header.ui-bar-inherit{
+	 border: 1px solid #ff6d70 !important;
+     background-color: #ff6d70 !important;
+     color: #001E62 !important;
+}
+
+.five9-confirm-btn.terminate-chat-confirm-button.ui-btn{
+	 border: 1px solid #ff6d70 !important;
      background-color: #ff6d70 !important;
      color: #001E62 !important;
 }
