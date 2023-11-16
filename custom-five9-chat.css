@@ -276,9 +276,12 @@ select{
     border:1px solid #CCCECE !important
 }
 .five9-action-btn{
-    border:1px solid #1E6A91 !important;
-    background-color:#288DC1 !important;
-    color:#fff !important;
+    /*border:1px solid #1E6A91 !important;
+    background-color:#288DC1 !important;*/ /*GL - Nov 16, 2023*/
+	border:1px solid #ff6d70 !important;
+	background-color: #ff6d70 !important;
+    /*color:#fff !important;*/
+	color: #001E62 !important;
     font-size:25px !important;
     line-height:.5
 }
@@ -475,20 +478,8 @@ div.typing{
     background-image:url("../../images/channels/channel-video-hover-default.png")
 }
 
- .five9-action-btn.ui-btn {
+.five9-action-btn.ui-btn {
      border: 1px solid #ff6d70 !important;
-     background-color: #ff6d70 !important;
-     color: #001E62 !important;
-}
-
-#conversation-chat-header.ui-header.ui-bar-inherit{
-	 border: 1px solid #ff6d70 !important;
-     background-color: #ff6d70 !important;
-     color: #001E62 !important;
-}
-
-.five9-confirm-btn.terminate-chat-confirm-button.ui-btn{
-	 border: 1px solid #ff6d70 !important;
      background-color: #ff6d70 !important;
      color: #001E62 !important;
 }
