@@ -277,11 +277,11 @@ select{
 }
 .five9-action-btn{
     border:1px solid #1E6A91 !important;
-    /*background-color:#288DC1 !important;*/ /*GL - Nov 16, 2023*/
+    background-color:#288DC1 !important; /*GL - Nov 16, 2023*/
 	/*border:1px solid #ff6d70 !important;*/
-	background-color: #ff6d70 !important;
-    /*color:#fff !important;*/
-	color: #001E62 !important;
+	/*background-color: #ff6d70 !important;*/
+    color:#fff !important;
+	/*color: #001E62 !important;*/
     font-size:25px !important;
     line-height:.5
 }
