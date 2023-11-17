@@ -339,7 +339,8 @@ select{
     opacity:1
 }
 .five9-link-btn{
-    color:#288DC1 !important
+    /*color:#288DC1 !important*/ /*GL Nov 17, 2023*/
+    color:#001E62 !important
 }
 .form-control input{
     color:black !important
