@@ -278,8 +278,8 @@ select{
 .five9-action-btn{
     /*border:1px solid #1E6A91 !important;
     background-color:#288DC1 !important;*/ /*GL - Nov 16, 2023*/
-    border:1px solid linear-gradient(to right,  #001E62 50%, #ff6d70) !important;
-    background-image: linear-gradient(to right,  #001E62 50%, #ff6d70) !important;
+    border:1px solid linear-gradient(45deg,  #001E62 40%, #ff6d70) !important;
+    background-image: linear-gradient(45deg,  #001E62 40%, #ff6d70) !important;
     color:#fff !important;
     font-size:25px !important;
     line-height:.5
