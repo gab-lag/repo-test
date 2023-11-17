@@ -472,3 +472,6 @@ div.typing{
 .hover-allowed #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item:hover div.channel-video{
     background-image:url("../../images/channels/channel-video-hover-default.png")
 }
+#five9-notification.five9-proactive.five9-notification.active {
+    background-image: linear-gradient(#00a7b5,#001E62);
+}
