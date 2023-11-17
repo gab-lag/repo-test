@@ -285,8 +285,7 @@ select{
     line-height:.5
 }
 .five9-action-btn:hover:not(disabled){
-    /*background-color:#53A4CD !important*/
-    transform: translate(-25%, -25%) rotate(-180deg);
+    background-color:#53A4CD !important
 }
 .five9-action-btn:focus:not(disabled){
     outline:none;
