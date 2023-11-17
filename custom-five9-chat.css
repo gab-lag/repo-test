@@ -355,10 +355,8 @@ div.inner-container .display-time{
     color:#515659 !important
 }
 div.message-container-agent div.message-container{
-    /*background-color:#EFF1F4 !important;
-    color:#292F33 !important;*/ /*GL Nov 17, 2023*/
-    background-color:#001e62;
-    color:#fff;
+    background-color:#EFF1F4 !important;
+    color:#292F33 !important;
     box-shadow:0 1px 0 #CCCECE !important
 }
 div.message-container-agent div.message-container a{
@@ -366,8 +364,10 @@ div.message-container-agent div.message-container a{
     color:#288DC1 !important
 }
 div.message-container-client div.message-container{
-    background-color:#288DC1 !important;
-    color:#fff !important;
+    /*background-color:#288DC1 !important;
+    color:#fff !important;*/ /*GL Nov 17, 2023*/
+    background-color:#001e62;
+    color:#fff;
     box-shadow:0 1px 0 #1E6A91 !important
 }
 div.message-container-client div.message-container a{
