@@ -280,8 +280,7 @@ select{
     background-color:#288DC1 !important;*/ /*GL - Nov 16, 2023*/
     border:1px solid #ff6d70 !important;
     background-image: linear-gradient(to right,  #001E62 50%, #ff6d70) !important;
-    /*color:#fff !important;*/
-    color: #001E62 !important;
+    color:#fff !important;
     font-size:25px !important;
     line-height:.5
 }
