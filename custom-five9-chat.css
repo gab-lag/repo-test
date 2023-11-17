@@ -279,7 +279,7 @@ select{
     /*border:1px solid #1E6A91 !important;
     background-color:#288DC1 !important;*/ /*GL - Nov 16, 2023*/
     border:1px solid #ff6d70 !important;
-    background-color: #ff6d70 !important;
+    background-image: linear-gradient(to right,  #001E62 50%, #ff6d70) !important;
     /*color:#fff !important;*/
     color: #001E62 !important;
     font-size:25px !important;
@@ -474,6 +474,6 @@ div.typing{
 .hover-allowed #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item:hover div.channel-video{
     background-image:url("../../images/channels/channel-video-hover-default.png")
 }
-#five9-notification.five9-proactive.five9-notification.active {
+/*#five9-notification.five9-proactive.five9-notification.active {
     
-}
+}*/
