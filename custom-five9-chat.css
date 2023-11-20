@@ -294,6 +294,7 @@ select{
     transition: opacity 0.5s;
     z-index: -10;
     display: block;
+    width: 100%;
     color:#fff !important;
     font-size:25px !important;
     line-height:.5
