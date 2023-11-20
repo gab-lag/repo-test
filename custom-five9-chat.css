@@ -281,6 +281,7 @@ select{
     border:1px solid linear-gradient(45deg,  #001E62 40%, #ff6d70) !important;
     background-image: linear-gradient(45deg,  #001E62 40%, #ff6d70) !important;
     z-index: 10;
+    display: inline-block;
     color:#fff !important;
     font-size:25px !important;
     line-height:.5
@@ -291,7 +292,8 @@ select{
     background-image: linear-gradient(45deg,  #ff6d70 40%, #001E62) !important;
     opacity: 0;
     transition: opacity 0.5s;
-    z-index: -10;v
+    z-index: -10;
+    display: block;
     color:#fff !important;
     font-size:25px !important;
     line-height:.5
