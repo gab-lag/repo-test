@@ -284,6 +284,17 @@ select{
     font-size:25px !important;
     line-height:.5
 }
+.five9-action-btn:after{
+    /*GL - Nov 20, 2023*/
+    border:1px solid linear-gradient(45deg,  #ff6d70 40%, #001E62) !important;
+    background-image: linear-gradient(45deg,  #ff6d70 40%, #001E62) !important;
+    color:#fff !important;
+    font-size:25px !important;
+    line-height:.5
+}
+.five9-action-btn:hover:after{
+    opacity: 1; 
+}
 .five9-action-btn:hover:not(disabled){
     background-color:#53A4CD !important
 }
