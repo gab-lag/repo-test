@@ -307,11 +307,13 @@ select{
 }
 .five9-action-btn:focus:not(disabled){
     outline:none;
-    box-shadow:0 0 6px 0 #288DC1 !important
+    /*box-shadow:0 0 6px 0 #288DC1 !important;*/ /*GL Nov 21, 2023*/
+    box-shadow:0 0 6px 0 #001E62 !important;
 }
 .five9-accept-btn{
     border:1px solid #1E6A91 !important;
-    background-color:#288DC1 !important;
+    /*background-color:#288DC1 !important;*/ /*GL Nov 21, 2023*/
+    background-color:#001E62 !important;
     color:#fff !important
 }
 .five9-accept-btn:hover:not(disabled){
@@ -319,7 +321,8 @@ select{
 }
 .five9-accept-btn:focus:not(disabled){
     outline:none;
-    box-shadow:0 0 6px 0 #288DC1 !important
+    /*box-shadow:0 0 6px 0 #288DC1 !important*/ /*GL Nov 21, 2023*/
+    box-shadow:0 0 6px 0 #001E62 !important;
 }
 .five9-confirm-btn{
     border:1px solid #940B2D !important;
@@ -344,7 +347,8 @@ select{
 }
 .five9-cancel-btn:focus:not(disabled),.five9-aux-btn:focus:not(disabled){
     outline:none;
-    box-shadow:0 0 6px 0 #288DC1 !important
+    /*box-shadow:0 0 6px 0 #288DC1 !important*/ /*GL Nov 21, 2023*/
+    box-shadow:0 0 6px 0 #001E62 !important;
 }
 .five9-left-btn,.five9-right-btn{
     color:#fff !important;
@@ -380,12 +384,13 @@ div.message-container-agent div.message-container{
 }
 div.message-container-agent div.message-container a{
     font-weight:normal !important;
-    color:#288DC1 !important
+    /*color:#288DC1 !important*/ /*GL Nov 21, 2023*/
+    color:#001E62 !important;
 }
 div.message-container-client div.message-container{
     /*background-color:#288DC1 !important;
     color:#fff !important;*/ /*GL Nov 17, 2023*/
-    background-color:#001e62;
+    background-color:#001E62;
     color:#fff;
     box-shadow:0 1px 0 #1E6A91 !important
 }
@@ -434,7 +439,8 @@ div.typing{
     font-weight:bold !important
 }
 .provider-nine{
-    color:#288DC1 !important;
+    /*color:#288DC1 !important;*/ /*GL Nov 21, 2023*/
+    color:#001E62 !important;
     font-weight:bold !important
 }
 #conversation-page .vivr-content,#conversation-page .vivr-button{
@@ -445,7 +451,8 @@ div.typing{
 }
 #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item{
     background:white !important;
-    color:#288DC1 !important
+    /*color:#288DC1 !important*/ /*GL Nov 21, 2023*/
+    color:#001e62 !important;
 }
 #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item div.vivr-transfer-name{
     color:#292F33 !important
@@ -469,7 +476,8 @@ div.typing{
     background-image:url("../../images/channels/channel-video-default.png")
 }
 .hover-allowed #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item:hover{
-    background:#288DC1 !important;
+    /*background:#288DC1 !important;*/ /*GL Nov 21, 2023*/
+    background:#001E62 !important;
     color:white !important
 }
 .hover-allowed #conversation-page .vivr-content .vivr-menu .vivr-transfer-row .vivr-transfer-item:hover div.vivr-transfer-name{
